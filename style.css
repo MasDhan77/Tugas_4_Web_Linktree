@@ -104,6 +104,10 @@ header h1 {
     border-left: 4px solid #1877f2;
 }
 
+.link-button.github {
+    border-left: 4px solid #000;
+}
+
 .link-button.maps {
     border-left: 4px solid #009925;
 }
@@ -121,6 +125,11 @@ header h1 {
 
 .link-button.facebook:hover {
     background-color: #1877f2;
+    color: white;
+}
+
+.link-button.github:hover {
+    background-color: #000;
     color: white;
 }
 
